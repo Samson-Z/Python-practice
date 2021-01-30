@@ -1,2 +1,2 @@
 # Python-practice
-some practice on lecture in university
+Codes for Report in University
